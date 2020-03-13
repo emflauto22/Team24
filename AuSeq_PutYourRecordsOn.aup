@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="AuSeq_PutYourRecordsOn_data" version="1.3.0" audacityversion="2.3.3" sel0="8.8816326531" sel1="8.8816326531" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Corinne Bailey Rae - Put Your Records On" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="882000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f618.au" len="220446" min="-0.276225" max="0.289413" rms="0.061991"/>
+				</waveblock>
+				<waveblock start="220446">
+					<simpleblockfile filename="eff1f865.au" len="262144" min="-0.377676" max="0.363495" rms="0.083681"/>
+				</waveblock>
+				<waveblock start="482590">
+					<simpleblockfile filename="eff1f197.au" len="262144" min="-0.395489" max="0.387446" rms="0.090256"/>
+				</waveblock>
+				<waveblock start="744734">
+					<simpleblockfile filename="eff1fdc5.au" len="137266" min="-0.394518" max="0.375145" rms="0.093262"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Corinne Bailey Rae - Put Your Records On" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="882000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f08e.au" len="220446" min="-0.272734" max="0.316009" rms="0.064573"/>
+				</waveblock>
+				<waveblock start="220446">
+					<simpleblockfile filename="eff1fbeb.au" len="262144" min="-0.371727" max="0.368171" rms="0.085905"/>
+				</waveblock>
+				<waveblock start="482590">
+					<simpleblockfile filename="eff1f3e5.au" len="262144" min="-0.384742" max="0.388626" rms="0.091777"/>
+				</waveblock>
+				<waveblock start="744734">
+					<simpleblockfile filename="eff1f95f.au" len="137266" min="-0.396958" max="0.396845" rms="0.096067"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" isSelected="1" height="73" minimized="0" numlabels="19">
+		<label t="-20.0000000000" t1="0.0000000000" title=""/>
+		<label t="1.6021768707" t1="2.8908843537" title=""/>
+		<label t="7.1401360544" t1="7.5929251701" title=""/>
+		<label t="8.3127437642" t1="8.3127437642" title=""/>
+		<label t="9.0673922902" t1="9.0673922902" title=""/>
+		<label t="9.9729705215" t1="9.9729705215" title=""/>
+		<label t="10.5882993197" t1="10.5882993197" title=""/>
+		<label t="11.0875283447" t1="11.0875283447" title=""/>
+		<label t="11.7260770975" t1="11.7260770975" title=""/>
+		<label t="12.4458956916" t1="12.4458956916" title=""/>
+		<label t="12.7941950113" t1="12.7941950113" title=""/>
+		<label t="13.3746938776" t1="13.3746938776" title=""/>
+		<label t="14.3383219955" t1="14.3383219955" title=""/>
+		<label t="15.0813605442" t1="15.0813605442" title=""/>
+		<label t="16.5674376417" t1="16.5674376417" title=""/>
+		<label t="17.2059863946" t1="17.2059863946" title=""/>
+		<label t="17.8097052154" t1="17.8097052154" title=""/>
+		<label t="18.4018140590" t1="18.4018140590" title=""/>
+		<label t="19.0635827664" t1="19.0635827664" title=""/>
+	</labeltrack>
+</project>
